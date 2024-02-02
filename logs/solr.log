@@ -324,3 +324,34 @@ INFO  - 2024-02-01 23:36:19.013; com.flipkart.testCases.BaseTest; Browser Name :
 INFO  - 2024-02-01 23:36:39.353; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
 INFO  - 2024-02-01 23:36:39.391; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
 INFO  - 2024-02-01 23:37:07.650; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-02 10:45:50.995; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 10:45:51.076; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 10:45:53.512; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 10:45:53.620; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:02:20.989; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 11:02:21.051; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 11:02:23.729; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 11:02:23.731; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:13:36.879; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 11:13:36.907; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 11:13:38.994; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 11:13:38.994; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:14:07.169; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 11:14:07.210; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 11:14:20.130; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 11:14:20.132; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:19:20.504; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 11:19:20.521; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 11:19:22.907; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 11:19:22.907; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:20:49.974; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 11:20:49.990; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 11:21:26.365; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 11:21:26.366; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:21:52.380; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-02 11:56:14.891; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-02 11:56:14.921; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-02 11:57:03.415; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-02 11:57:03.417; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-02 11:57:53.270; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-02-02 11:57:54.337; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 346

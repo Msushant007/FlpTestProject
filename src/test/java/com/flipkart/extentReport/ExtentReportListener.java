@@ -62,9 +62,9 @@ public class ExtentReportListener  implements IReporter {
 
                 if (result.getThrowable() != null) {
                     test.log(status, result.getThrowable());
-                    test.log( status, "Test is: " + timeStamp +" : "+ status.toString().toLowerCase() + " : ");
+                    test.log( status,"");
                 } else {
-                    test.log( status, "My Custom Test : "   + timeStamp +" : " + status.toString().toLowerCase()+" : ");
+                    test.log( status, "");
                 }
 
                 extent.endTest(test);
