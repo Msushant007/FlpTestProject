@@ -1,0 +1,326 @@
+INFO  - 2024-01-28 21:51:52.907; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-28 21:51:52.926; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-28 21:58:41.291; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-28 21:58:41.299; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-28 22:01:37.752; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-28 22:01:37.767; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 14:17:59.721; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 14:17:59.730; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 14:18:35.562; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 361
+INFO  - 2024-01-29 14:21:17.478; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 14:21:17.493; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 14:21:59.080; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 361
+INFO  - 2024-01-29 14:22:01.431; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:43:55.872; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 17:43:55.886; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 17:44:34.617; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 360
+INFO  - 2024-01-29 17:44:34.994; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:1
+INFO  - 2024-01-29 17:46:44.456; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 17:46:44.477; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 17:47:03.794; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 17:47:03.803; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 17:47:42.408; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 364
+INFO  - 2024-01-29 17:47:46.371; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:47:53.932; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:48:19.472; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:48:54.790; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:51:38.215; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 17:51:38.228; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 17:52:18.575; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 360
+INFO  - 2024-01-29 17:52:31.944; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:349
+INFO  - 2024-01-29 17:52:32.318; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:52:32.369; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:52:32.398; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:52:32.487; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:52:34.550; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:52:47.061; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:53:01.489; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:53:06.007; com.flipkart.pageObjects.FlipkartAddCartPage; Get title >> Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:56:54.998; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 17:56:55.010; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 17:57:27.111; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 17:57:27.611; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 360
+INFO  - 2024-01-29 17:57:31.229; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:348
+INFO  - 2024-01-29 17:57:31.244; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/the-gift-card-store?link=home_giftcard
+INFO  - 2024-01-29 17:57:31.784; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/wet-grinders/pr?sid=j9e,m38,htd&otracker=undefined_footer
+INFO  - 2024-01-29 17:57:31.928; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/bata-shoes?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:31.988; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/mattresses/pr?sid=wwe,rg9&otracker=undefined_footer
+INFO  - 2024-01-29 17:57:32.031; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/beds/pr?sid=wwe,7p7&otracker=undefined_footer
+INFO  - 2024-01-29 17:57:32.089; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/account/rewards?link=home_rewards
+INFO  - 2024-01-29 17:57:32.167; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/dining-tables-sets/pr?sid=wwe,ur9&otracker=undefined_footer
+INFO  - 2024-01-29 17:57:32.253; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/samsung-galaxy-s24-5g-cobalt-violet-512-gb/p/itmdbe5ac49590db?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:32.382; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/4g-mobile-phones-store?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:32.827; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/iqoo-5g-phones?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:33.801; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/#
+INFO  - 2024-01-29 17:57:33.918; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/woodland-shoes?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:34.034; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/dabur-chyawanprash?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:37.264; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :http://stories.flipkart.com/
+INFO  - 2024-01-29 17:57:37.925; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/womens-ethnic-sets/kurta-and-palazzo-set~type/pr?sid=clo%2Ccfv%2Citg%2Ctys&otracker=undefined_footer
+INFO  - 2024-01-29 17:57:41.333; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/pages/payments
+INFO  - 2024-01-29 17:57:43.130; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/mobile-speaker-cleaner?otracker=undefined_footer
+INFO  - 2024-01-29 17:57:50.015; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/mens-track-pants/pr?sid=clo%2Cvua%2Cjlk%2C6ql&otracker=undefined_footer
+INFO  - 2024-01-29 17:57:56.138; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/realme-book-prime-core-i5-11th-gen-16-gb-512-gb-ssd-windows-11-home-cloudpro002-thin-light-laptop/p/itm7d1b1a9d3579b?otracker=undefined_footer
+INFO  - 2024-01-29 17:58:09.066; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/blouse-back-design?otracker=undefined_footer
+INFO  - 2024-01-29 17:58:15.042; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkartwholesale.com/
+INFO  - 2024-01-29 17:58:21.003; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/all/~cs-6f5af2c6fd4068ce713d184f1481cd2b/pr?sid=osp,cil,1cu&marketplace=FLIPKART&restrictLocale=true
+INFO  - 2024-01-29 17:58:52.079; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/5g-mobile-phones-store?otracker=undefined_footer
+INFO  - 2024-01-29 17:59:08.450; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/laptops/asus~brand/pr?sid=6bo,b5g&otracker=undefined_footer
+INFO  - 2024-01-29 17:59:18.067; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/grocery/household-care/floor-other-cleaners/toilet-cleaners/pr?sid=73z,cwl,u3c,ijq&marketplace=GROCERY&otracker=undefined_footer
+INFO  - 2024-01-29 21:37:31.782; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 21:37:31.800; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 21:38:46.055; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 21:39:05.064; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 0
+INFO  - 2024-01-29 21:39:05.065; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:0
+INFO  - 2024-01-29 21:39:05.074; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-29 21:39:05.076; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-29 21:40:54.750; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-29 21:40:54.772; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-29 21:42:24.793; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-29 21:42:27.314; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 360
+INFO  - 2024-01-29 21:42:38.134; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:349
+INFO  - 2024-01-29 21:42:38.163; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/the-gift-card-store?link=home_giftcard
+INFO  - 2024-01-29 21:42:39.564; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/wet-grinders/pr?sid=j9e,m38,htd&otracker=undefined_footer
+INFO  - 2024-01-29 21:42:42.290; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/bata-shoes?otracker=undefined_footer
+INFO  - 2024-01-29 21:42:43.984; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/mattresses/pr?sid=wwe,rg9&otracker=undefined_footer
+INFO  - 2024-01-29 21:42:44.131; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/beds/pr?sid=wwe,7p7&otracker=undefined_footer
+INFO  - 2024-01-29 21:42:44.315; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/account/rewards?link=home_rewards
+INFO  - 2024-01-29 21:42:48.791; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/dining-tables-sets/pr?sid=wwe,ur9&otracker=undefined_footer
+INFO  - 2024-01-29 21:43:03.430; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/samsung-galaxy-s24-5g-cobalt-violet-512-gb/p/itmdbe5ac49590db?otracker=undefined_footer
+INFO  - 2024-01-29 21:43:43.364; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/4g-mobile-phones-store?otracker=undefined_footer
+INFO  - 2024-01-29 21:43:56.741; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/iqoo-5g-phones?otracker=undefined_footer
+INFO  - 2024-01-29 21:44:16.172; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/#
+INFO  - 2024-01-30 16:05:04.831; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 16:05:04.843; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 16:05:48.508; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-30 16:05:49.066; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 357
+INFO  - 2024-01-30 16:05:54.515; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:344
+INFO  - 2024-01-30 16:05:54.517; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/the-gift-card-store?link=home_giftcard
+INFO  - 2024-01-30 16:05:56.648; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/wet-grinders/pr?sid=j9e,m38,htd&otracker=undefined_footer
+INFO  - 2024-01-30 16:05:56.979; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/q/bata-shoes?otracker=undefined_footer
+INFO  - 2024-01-30 16:05:57.425; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/mattresses/pr?sid=wwe,rg9&otracker=undefined_footer
+INFO  - 2024-01-30 16:05:59.656; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/beds/pr?sid=wwe,7p7&otracker=undefined_footer
+INFO  - 2024-01-30 16:06:01.581; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/account/rewards?link=home_rewards
+INFO  - 2024-01-30 16:06:10.216; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/furniture/dining-tables-sets/pr?sid=wwe,ur9&otracker=undefined_footer
+INFO  - 2024-01-30 16:06:23.527; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/samsung-galaxy-s24-5g-cobalt-violet-512-gb/p/itmdbe5ac49590db?otracker=undefined_footer
+INFO  - 2024-01-30 16:06:32.307; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :https://www.flipkart.com/4g-mobile-phones-store?otracker=undefined_footer
+INFO  - 2024-01-30 16:29:37.968; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 16:29:37.980; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 16:30:12.642; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-30 16:30:13.225; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 361
+INFO  - 2024-01-30 16:30:13.226; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:0
+INFO  - 2024-01-30 16:30:13.362; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :null
+INFO  - 2024-01-30 16:30:15.627; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 16:30:15.635; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 16:39:43.621; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 16:39:43.631; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 16:40:25.912; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-30 16:40:29.086; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 359
+INFO  - 2024-01-30 16:40:29.087; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:0
+INFO  - 2024-01-30 16:40:30.349; com.flipkart.pageObjects.FlipkartAddCartPage; Unique Link :null
+INFO  - 2024-01-30 16:40:37.427; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 16:40:37.433; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 16:50:41.448; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 16:50:41.461; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 16:51:14.551; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-30 16:51:16.855; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 357
+INFO  - 2024-01-30 16:51:16.856; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:0
+INFO  - 2024-01-30 16:51:17.551; com.flipkart.pageObjects.FlipkartAddCartPage; Unique ListKeyLink :https://www.flipkart.com/#
+INFO  - 2024-01-30 16:51:18.436; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 16:51:18.436; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 16:52:11.482; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 16:52:11.492; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 16:52:54.050; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-30 16:52:54.735; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 359
+INFO  - 2024-01-30 16:52:54.736; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:359
+INFO  - 2024-01-30 16:52:56.862; com.flipkart.pageObjects.FlipkartAddCartPage; Unique ListKeyLink :https://www.flipkart.com/#
+INFO  - 2024-01-30 16:53:00.619; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 16:53:00.626; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 18:53:40.495; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 18:53:40.502; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 18:56:14.089; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 18:56:14.091; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 21:42:33.159; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 21:42:33.168; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 21:43:09.308; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 21:43:09.310; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 21:46:58.704; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 21:46:58.708; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 21:47:34.292; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 21:47:34.294; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 21:48:17.630; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 21:48:17.639; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 21:48:57.355; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-01-30 21:48:59.584; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 357
+INFO  - 2024-01-30 21:48:59.586; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:357
+INFO  - 2024-01-30 21:49:01.219; com.flipkart.pageObjects.FlipkartAddCartPage; open link url :https://www.flipkart.com/#
+INFO  - 2024-01-30 21:49:02.052; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 21:49:02.055; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-01-30 23:30:43.811; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-01-30 23:30:43.868; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-01-30 23:31:23.174; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-01-30 23:31:23.176; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 10:52:01.098; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 10:52:01.110; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 10:52:32.203; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-02-01 10:52:32.917; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 346
+INFO  - 2024-02-01 10:52:32.918; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:346
+INFO  - 2024-02-01 10:52:33.038; com.flipkart.pageObjects.FlipkartAddCartPage; open link url :https://www.flipkart.com/#
+INFO  - 2024-02-01 10:52:33.983; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 10:52:33.984; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 11:17:32.456; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 11:17:32.479; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 11:18:08.484; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-02-01 11:18:09.586; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 371
+INFO  - 2024-02-01 11:18:09.587; com.flipkart.pageObjects.FlipkartAddCartPage; Count of Unique links:371
+INFO  - 2024-02-01 11:18:11.078; com.flipkart.pageObjects.FlipkartAddCartPage; open link url :https://www.flipkart.com/#
+INFO  - 2024-02-01 11:18:11.615; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 11:18:11.620; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:12:57.150; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 13:12:57.157; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 13:14:10.847; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 13:14:11.761; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 146
+INFO  - 2024-02-01 13:14:11.772; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:14:11.774; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:14:50.921; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:14:50.923; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:15:21.550; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:15:21.554; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:15:52.070; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:15:52.082; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:27.333; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:27.346; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:45.881; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:45.884; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.249; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.250; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.330; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.330; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.410; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.410; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.447; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.448; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.507; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.507; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.546; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.548; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:16:46.592; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:16:46.593; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:24:50.845; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 13:24:50.855; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 13:25:37.936; com.flipkart.pageObjects.FlipkartAddCartPage; Get Title : Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+INFO  - 2024-02-01 13:25:41.097; com.flipkart.pageObjects.FlipkartAddCartPage; Count of links 372
+INFO  - 2024-02-01 13:25:41.108; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:25:41.111; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:26:12.145; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:26:12.147; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 13:26:42.256; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 13:26:42.271; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 20:14:33.538; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 20:14:33.566; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 20:15:06.282; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 20:15:06.329; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 20:15:36.596; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 20:15:36.598; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 20:16:06.706; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 20:16:06.713; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:29:33.350; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 21:29:33.361; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 21:29:36.486; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:29:36.571; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:29:36.907; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:29:36.908; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:29:36.952; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:29:36.953; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:30:24.378; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 21:30:24.386; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 21:30:25.686; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:30:25.731; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:30:25.873; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:30:25.873; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:30:25.916; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:30:25.916; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:30:50.848; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 21:30:50.854; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 21:31:21.070; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:31:21.117; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:31:57.122; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:31:57.124; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:31:58.669; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:31:58.672; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:51:45.084; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 21:51:45.093; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 21:52:24.650; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:52:24.700; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:53:35.525; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:53:35.533; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:53:35.769; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:53:35.769; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 21:57:33.030; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 21:57:33.038; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 21:58:28.635; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 21:58:28.716; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:00:20.895; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:00:20.903; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:03:58.518; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:03:58.531; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:04:27.928; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:04:27.991; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:06:02.119; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:06:02.143; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:06:39.793; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:06:39.837; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:07:56.194; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:07:56.201; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:08:28.477; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:08:28.530; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:10:55.420; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:10:55.439; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:11:26.621; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:11:26.664; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:14:22.890; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:14:22.913; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:14:48.589; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:14:48.623; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:16:00.723; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:16:00.732; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:16:21.737; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:16:21.771; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:17:01.077; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:17:01.083; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:17:30.570; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:17:30.608; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:21:20.548; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:21:20.560; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:21:50.012; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:21:50.061; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:21:59.207; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 22:23:19.767; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:23:19.784; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:23:41.192; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:23:41.231; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:23:50.032; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 22:25:54.320; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:25:54.331; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:26:20.999; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:26:21.060; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:26:35.594; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 22:30:35.892; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:30:35.903; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:30:59.815; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:30:59.860; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:31:18.182; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 22:44:40.353; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 22:44:40.359; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 22:45:00.999; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 22:45:01.043; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 22:45:12.947; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 23:25:22.437; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 23:25:22.456; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 23:25:46.109; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 23:25:46.146; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 23:25:58.521; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India
+INFO  - 2024-02-01 23:36:19.001; com.flipkart.utilities.DriverInit; Driver invoked :Chrome
+INFO  - 2024-02-01 23:36:19.013; com.flipkart.testCases.BaseTest; Browser Name :Chrome
+INFO  - 2024-02-01 23:36:39.353; com.flipkart.testCases.FlipkartAddCarTest; scrollToItemTest Running..
+INFO  - 2024-02-01 23:36:39.391; com.flipkart.pageObjects.FlipkartAddCartPage; findProductByScrollingDown
+INFO  - 2024-02-01 23:37:07.650; com.flipkart.testCases.FlipkartAddCarTest; title:Mobile Phones Online at Best Prices in India

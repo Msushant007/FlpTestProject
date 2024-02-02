@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>AddCartPage.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">/Users/sushant/Documents/SeleniumTestHelper/SeleniumHibridFreamwork/TestNG.xml Coverage Results</a> &gt; <a href="index.source.html" class="el_package">flipkartV1.pageObjects</a> &gt; <span class="el_source">AddCartPage.java</span></div><h1>AddCartPage.java</h1><pre class="source lang-java linenums">package flipkartV1.pageObjects;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
+
+public class AddCartPage {
+
+    @FindBy(how = How.XPATH, using = &quot;//a[@title=\&quot;From ₹9,999\&quot;]&quot;)
+    WebElement scrolledDownitemElement;
+
+    @FindBy(how= How.CLASS_NAME, using = &quot;_6WQwDJ T88g6k&quot;)
+    WebElement scrollToElementHorizontal;
+
+    WebDriver driver;
+
+    public static Logger logger ;
+<span class="fc" id="L23">    public AddCartPage(WebDriver driver) {</span>
+<span class="fc" id="L24">        this.driver = driver;</span>
+<span class="fc" id="L25">        PageFactory.initElements(driver, this);</span>
+<span class="fc" id="L26">    }</span>
+
+    public void findProductByScrollingDown()  {
+
+<span class="nc" id="L30">        logger.info(&quot;findProductByScrollingDown&quot;);</span>
+<span class="nc" id="L31">        logger.error(&quot;findProductByScrollingDown&quot;);</span>
+<span class="nc" id="L32">        WebElement ele = driver.findElement(By.xpath(&quot;/html/body/div[2]/div/div/button&quot;));</span>
+<span class="nc" id="L33">        System.out.println(&quot;Wait&quot;);</span>
+        //waitTillElementIsClickable(driver, 2000, ele);
+<span class="nc" id="L35">        ele.click();</span>
+<span class="nc" id="L36">        JavascriptExecutor jse = (JavascriptExecutor) driver;</span>
+
+
+<span class="nc" id="L39">        jse.executeScript(&quot;window.scrollTo(0,1050)&quot;);</span>
+        try {
+<span class="nc" id="L41">            Thread.sleep(5000);</span>
+        }
+<span class="nc" id="L43">        catch (InterruptedException e) {</span>
+<span class="nc" id="L44">            throw new RuntimeException(e);</span>
+<span class="nc" id="L45">        }</span>
+<span class="nc" id="L46">        jse.executeScript(&quot;window.scrollTo(0,1650)&quot;);</span>
+        //jse.executeScript(&quot;returndocument.Bod&quot;);
+       // scrolledDownitemElement.click();
+        try {
+<span class="nc" id="L50">            Thread.sleep(5000);</span>
+        }
+<span class="nc" id="L52">        catch (InterruptedException e) {</span>
+
+
+<span class="nc" id="L55">            jse.executeScript(&quot;arguments[0].scrollIntoView()&quot;,scrollToElementHorizontal);</span>
+<span class="nc" id="L56">            scrollToElementHorizontal.click();</span>
+<span class="nc" id="L57">            throw new RuntimeException(e);</span>
+<span class="nc" id="L58">        }</span>
+<span class="nc" id="L59">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.7.202105040129</span></div></body></html>

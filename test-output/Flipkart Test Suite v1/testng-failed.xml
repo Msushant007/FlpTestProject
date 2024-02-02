@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [InetBanking Test Suite v9]">
+  <listeners>
+    <listener class-name="com.flipkart.extentReport.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="Banking App Sanity Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.flipkart.testCases.FlipkartAddCarTest">
+        <methods>
+          <include name="setup"/>
+          <include name="inValidUserLoginTest"/>
+          <include name="tearDown"/>
+          <include name="validUserLoginTest"/>
+        </methods>
+      </class> <!-- com.flipkart.testCases.LoginTest01 -->
+    </classes>
+  </test> <!-- Banking App Sanity Test(failed) -->
+</suite> <!-- Failed suite [InetBanking Test Suite v9] -->
